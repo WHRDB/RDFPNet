@@ -27,7 +27,17 @@ Extensive experiments on four benchmark datasets demonstrate that RDFPNet achiev
 
 ## 🚀 Framework
 
-![Overview of RDFPNet](./figures/framework.png)
+## Overall Framework
+
+<p align="center">
+  <img src="figures/overall_framework.jpg"
+       alt="Overall framework of the proposed RDFPNet"
+       width="900">
+</p>
+
+<p align="center">
+  <em>Overall framework of the proposed RDFPNet.</em>
+</p>
 
 *The framework figure will be added soon.*
 

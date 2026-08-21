@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the paper: "RDFPNet: A Reliability-Guided Dynamic Frequency Prototype Network for Semi-Supervised Cropland Change Detection", which has been submitted to *IEEE Transactions on Geoscience and Remote Sensing*.
 
-**Authors:** [Author 1], [Author 2], [Author 3], [Author 4]
+**Authors:** Haoran Wang, Qihao Liu, Peng Wang, Jiaen Chen, Guoshun Zhang, Yuchen Zheng
 
 ## 📢 News
 

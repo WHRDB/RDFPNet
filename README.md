@@ -45,11 +45,3 @@ We evaluate RDFPNet on four representative cropland change detection datasets:
 ## ✒️ Citation
 
 If you find this work useful, please consider citing:
-
-```bibtex
-@article{wang2026rdfpnet,
-  title     = {RDFPNet: A Reliability-Guided Dynamic Frequency Prototype Network for Semi-Supervised Cropland Change Detection},
-  author    = {[Authors]},
-  journal   = {IEEE Transactions on Geoscience and Remote Sensing},
-  year      = {2026}
-}

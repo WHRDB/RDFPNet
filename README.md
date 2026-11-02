@@ -40,7 +40,7 @@ We evaluate RDFPNet on four representative cropland change detection datasets:
 - **PX-CLCD** — A high-resolution cultivated land change detection dataset.
 - **Hi-CNA** — A benchmark dataset for high-resolution cropland change detection.
 
-*Dataset download links and preparation instructions will be added soon.*
+**Dataset download:** JLYHCD, CLCD, PX-CLCD and Hi-CNA are available through this [Google Drive folder](https://drive.google.com/drive/folders/1GcZyptoM_myxFmEkHgMuvVZx-BFpxgHF?usp=drive_link).
 
 ## ✒️ Citation
 
